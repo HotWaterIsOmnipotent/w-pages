@@ -1,29 +1,21 @@
 {
-  "name": "zce-pages",
+  "name": "w-pages",
   "version": "0.2.0",
-  "description": "static web app workflow",
-  "keywords": [
-    "zce-pages",
-    "zce"
-  ],
-  "homepage": "https://github.com/zce/zce-pages#readme",
-  "bugs": {
-    "url": "https://github.com/zce/zce-pages/issues"
-  },
+  "description": "gulp config package",
   "license": "MIT",
-  "author": "zce <w@zce.me> (https://zce.me)",
+  "author": "William W",
   "files": [
     "lib",
     "bin"
   ],
   "main": "lib/index.js",
-  "bin": "bin/zce-pages.js",
+  "bin": "bin/w-pages.js",
   "directories": {
     "lib": "lib"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zce/zce-pages.git"
+    "url": "git+https://github.com/HotWaterIsOmnipotent/w-pages.git"
   },
   "scripts": {
     "lint": "standard --fix"
